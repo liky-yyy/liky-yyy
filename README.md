@@ -12,7 +12,11 @@
         src="http://img.shields.io/badge/-For%20Better%20Days-655ced?style=flat&logo=tistory&link=https://forbetterdays.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> 
-  
+
+#
+If you want to know more about me, please click this link!
+
+[KIHOONLEE](https://github.com/Liky98/KIHOONLEE)
 #
   
 <!-- ![Liky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liky98&show_icons=true&theme=dracula) -->
