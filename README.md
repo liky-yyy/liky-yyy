@@ -24,6 +24,14 @@ If you want to know more about me, please click this link!
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liky98&layout=compact&theme=dracula) -->
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=liky-yyy&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/liky-yyy"
+  width="600"
+  height="300"
+/>
+</a>
+
 </div>
 <!--
 **Liky98/Liky98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
